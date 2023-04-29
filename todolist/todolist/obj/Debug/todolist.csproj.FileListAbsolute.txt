@@ -1,0 +1,14 @@
+C:\Users\willi\Documents\GitHub\TodoList\todolist\todolist\bin\Debug\todolist.exe.config
+C:\Users\willi\Documents\GitHub\TodoList\todolist\todolist\bin\Debug\todolist.exe
+C:\Users\willi\Documents\GitHub\TodoList\todolist\todolist\bin\Debug\todolist.pdb
+C:\Users\willi\Documents\GitHub\TodoList\todolist\todolist\bin\Debug\EntityFramework.dll
+C:\Users\willi\Documents\GitHub\TodoList\todolist\todolist\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\willi\Documents\GitHub\TodoList\todolist\todolist\bin\Debug\EntityFramework.xml
+C:\Users\willi\Documents\GitHub\TodoList\todolist\todolist\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\willi\Documents\GitHub\TodoList\todolist\todolist\obj\Debug\todolist.Form1.resources
+C:\Users\willi\Documents\GitHub\TodoList\todolist\todolist\obj\Debug\todolist.Properties.Resources.resources
+C:\Users\willi\Documents\GitHub\TodoList\todolist\todolist\obj\Debug\todolist.csproj.GenerateResource.cache
+C:\Users\willi\Documents\GitHub\TodoList\todolist\todolist\obj\Debug\todolist.csproj.CoreCompileInputs.cache
+C:\Users\willi\Documents\GitHub\TodoList\todolist\todolist\obj\Debug\todolist.csproj.CopyComplete
+C:\Users\willi\Documents\GitHub\TodoList\todolist\todolist\obj\Debug\todolist.exe
+C:\Users\willi\Documents\GitHub\TodoList\todolist\todolist\obj\Debug\todolist.pdb
